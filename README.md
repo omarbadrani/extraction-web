@@ -56,8 +56,8 @@ Un outil intelligent d'extraction d'informations personnelles (PII) depuis des s
 │ - support@example.tn                               │
 │                                                     │
 │ Téléphones trouvés (2):                            │
-│ - +216 71 234 567                                  │
-│ - +216 98 765 432                                  │
+│ - +216 71 ******                                  │
+│ - +216 98 *** ***                                  │
 │                                                     │
 │ Adresses trouvées (1):                             │
 │ - 12 Rue de la République, Tunis                   │
@@ -79,7 +79,7 @@ Un outil intelligent d'extraction d'informations personnelles (PII) depuis des s
 
 ```bash
 # 1. Cloner le dépôt
-git clone https://github.com/votre-username/web-pii-extractor.git
+git clone https://github.com/omarbadrani/web-pii-extractor.git
 cd web-pii-extractor
 
 # 2. Créer un environnement virtuel (recommandé)
